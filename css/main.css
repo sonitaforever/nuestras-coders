@@ -1,1 +1,66 @@
 /* Inserta tu código aqui */
+.contenedor {
+	width: 800px;
+	height: 800px;
+	margin: auto;
+}
+
+h4 {
+	font-family: serif;
+}
+
+hr {
+	border-style: solid;
+	border-width: 2px;
+	width: 70px;
+	text-align: left;
+}
+
+
+
+
+.foto {
+	position: relative;
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+}
+
+
+
+.uno {
+	background-image: url('../img/profile-1.png');
+}
+
+.dos {
+	background-image: url('../img/profile-2.png');
+}
+
+.tres {
+	background-image: url('../img/profile-3.png');
+}
+
+.cuatro {
+	background-image: url('../img/profile-4.png');
+}
+.cinco {
+	background-image: url('../img/profile-5.png');
+}
+
+.seis {
+	background-image: url('../img/profile-6.png');
+}
+
+.parrafo {
+	position: absolute;
+	right: 3px;
+	color: #FFFCFC;
+	bottom: -7px;
+}
+
+.a {
+	font-family: serif;
+	position: absolute;
+
+}
